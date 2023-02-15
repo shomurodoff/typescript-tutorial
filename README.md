@@ -1,2 +1,2 @@
-# typescript-tutorial
+# Typescript Tutorial
  TypeScript course by The Net Ninja
